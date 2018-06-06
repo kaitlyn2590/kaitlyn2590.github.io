@@ -1,0 +1,14 @@
+h1{
+	font-family: Helvetica;
+	font-style: italic;
+	color: white;
+}
+body{
+	text-align: center;
+	background-color: red;
+	color: white;
+} 
+p {
+	color: white;
+	font-size: 24px; 
+}
